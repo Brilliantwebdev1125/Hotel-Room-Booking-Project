@@ -1,5 +1,5 @@
 <p align="center">
-    <a><img src="public/images/hotelbooking.PNG"></a>
+    <a><img src="public/images/mirotalk-header.gif"></a>
 </p>
 
 # Getting Started with Create React App
